@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-08-10T04:20:34Z" name="Suite" finished-at="2021-08-10T04:21:07Z" duration-ms="33393">
+    <groups>
+    </groups>
+    <test started-at="2021-08-10T04:20:34Z" name="Test" finished-at="2021-08-10T04:21:07Z" duration-ms="33393">
+      <class name="com.extractdata.test.Testapp">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:com.extractdata.test.Testapp@19dc67c2]" started-at="2021-08-10T04:20:34Z" name="initialize" finished-at="2021-08-10T04:20:52Z" duration-ms="18640" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="testOutput()[pri:0, instance:com.extractdata.test.Testapp@19dc67c2]" started-at="2021-08-10T04:20:53Z" name="testOutput" finished-at="2021-08-10T04:21:06Z" duration-ms="13783" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOutput -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.extractdata.test.Testapp@19dc67c2]" started-at="2021-08-10T04:21:06Z" name="tearDown" finished-at="2021-08-10T04:21:07Z" duration-ms="739" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.extractdata.test.Testapp -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
